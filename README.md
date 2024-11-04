@@ -1,6 +1,6 @@
-![I am dipu59](https://github.com/dipu59/dipu59/blob/main/code.png)
+![I am dipu59] ([https://github.com/dipu59/dipu59/blob/main/code.png](https://github.com/harun181/harun181/raw/main/code.png)) 
 
-<h1 align="center">Hi 👋, I'm HARUN UR ROSHID(Tutul)</h1>
+<h1 align="center">Hi 👋, I'm Dipu Biswas</h1>
 <h3 align="center">Programmer | Web Designer | Content Creator | Speed Learner</h3>
 <h4 align="center">Co-founder & Chief Operating Officer at Hablu Programmer</h4>
 
