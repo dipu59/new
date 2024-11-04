@@ -1,4 +1,4 @@
-![I am dipu59](httpsgithub.comharun181harun181blobmaincode.png)
+![I am dipu59](https://github.com/dipu59/new/blob/main/code.png?raw=true)
 
 <h1 align="center">Hi 👋, I'm Dipu Biswas</h1>
 <h3 align="center">Programmer | Web Designer | Content Creator | Speed Learner</h3>
